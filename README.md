@@ -1,8 +1,8 @@
-# TemplateRepo
+# CoronaBank
 
-## Repository for my project
+## Repository for my CoronaBank Android app project
 
-Find out how to build a web app platform . Authors tackle CRUD functions and connect the system to a database, using PHP, SQL and for the front end, HTML and CSS.
+Find out how to build a native Android banking app that is functional and secure. Screenshots are disabled within this app to improve security and maintain user confidentiality. Author Melvin Kisten tackle authentication, check balance, transfer and payment functions. We are making use of SQLite for demo purposes, however you are recommened to switch to something like MySQL or Redis for a database, using Java and SQL, and for the front end, XML.
 
 1. Methodologies/Project Management:
 
@@ -13,10 +13,8 @@ Find out how to build a web app platform . Authors tackle CRUD functions and con
    - OOP (Object Oriented Programming)
 
 3. Programming Languages:
-   - PHP
-   - SQL
-   - HTML (Not really a programming language)
-   - CSS
+   - Java
+   - XML (Not really a programming language)
 
 ## Info (Still loading...)
 
@@ -42,7 +40,7 @@ Find out how to build a web app platform . Authors tackle CRUD functions and con
 
 ## Live Demo (Still loading...)
 
-- [TemplateRepo](https://template-repo.com/ "TemplateRepo")
+- [CoronaBank](https://template-repo.com/ "CoronaBank")
 
 ## Instructions (Still loading...)
 

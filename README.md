@@ -10,6 +10,7 @@ Find out how to build a native Android banking app that is functional and secure
 
 2. Coding Practices:
 
+   - MVC (Model View Controller)
    - OOP (Object Oriented Programming)
 
 3. Programming Languages:

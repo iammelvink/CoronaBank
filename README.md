@@ -2,7 +2,7 @@
 
 ## Repository for my CoronaBank Android app project
 
-Find out how to build a native Android banking app that is functional and secure. Screenshots are disabled within this app to improve security and maintain user confidentiality. Author Melvin Kisten tackle authentication, check balance, transfer and payment functions. We are making use of SQLite for demo purposes, however you are recommened to switch to something like MySQL or Redis for a database, using Java and SQL, and for the front end, XML.
+Find out how to build a native Android banking app that is functional and secure. Screenshots are disabled within this app to improve security and maintain user confidentiality. Author Melvin Kisten tackle authentication, check balance, transfer and payment functions. We are making use of SQLite for demo purposes, however you are recommended to switch to something like MySQL or Redis for a database, using Java and SQL, and for the front end, XML.
 
 1. Methodologies/Project Management:
 

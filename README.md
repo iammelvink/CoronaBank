@@ -15,6 +15,7 @@ Find out how to build a native Android banking app that is functional and secure
 
 3. Programming Languages:
    - Java
+   - SQL
    - XML (Not really a programming language)
 
 ## Info (Still loading...)
@@ -53,7 +54,7 @@ Find out how to build a native Android banking app that is functional and secure
 
 2. Clone this repository into your local machine using the terminal (mac) or [Gitbash (PC)](https://git-scm.com/download/win "Gitbash (PC)")
 
-   `> git clone https://github.com/iammelvink/template-repo.git`
+   `> git clone https://github.com/iammelvink/CoronaBank.git`
 
 3. Run XAMPP and create the database 'template-repo'
 

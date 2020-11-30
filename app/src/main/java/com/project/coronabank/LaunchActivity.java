@@ -21,7 +21,7 @@ public class LaunchActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         //Disable screenshots in this app for better security
-        //Place before Before your setContentView()
+        //Place before your setContentView()
         //Does NOT work for Android versions lower than Honeycomb
         if(android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.HONEYCOMB) {
             getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE, WindowManager.LayoutParams.FLAG_SECURE);
